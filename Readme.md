@@ -18,4 +18,5 @@ Ensure that you have Python installed on your system. This script is compatible 
 No external dependencies are required. Simply download or clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/tsv-to-csv-converter.git
+git clone https://github.com/philipobiorah/convert_tsv_to_csv.git
+
